@@ -2,7 +2,7 @@
 
 ## Parte I
 
-Resolución del juego [SQL Muerder Mystery](http://mystery.knightlab.com). 
+Resolución del juego [SQL Murder Mystery](http://mystery.knightlab.com). 
 
 La [solución](./Parte_I_SQL%20Game.ipynb) se divide por queries y se incluyen varias opciones de consulta para resolver el misterio.
 
